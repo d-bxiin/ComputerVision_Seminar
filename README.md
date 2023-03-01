@@ -16,6 +16,7 @@
 + 2w : Transfer Learning
   + Imagenet Challenge
   + Transfer Learning
+  + https://d-bxiin.tistory.com/2
 
 + 3w : Imagenet Challenge 2014
   + 파이썬 이미지 데이터 다루기
