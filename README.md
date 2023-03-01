@@ -25,5 +25,5 @@
   + Pytorch
 
 + 5w : GoogLeNet, ResNet
-  + GoogLeNet
-  + ResNet
+  + GoogLeNet(2014)
+  + ResNet(2015)
