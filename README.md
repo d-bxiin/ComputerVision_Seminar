@@ -28,3 +28,5 @@
 + 5w : GoogLeNet, ResNet
   + GoogLeNet(2014)
   + ResNet(2015)
+
++ 6w : 데이터 모델링
