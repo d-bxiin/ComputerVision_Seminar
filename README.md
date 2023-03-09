@@ -1,9 +1,9 @@
 # ComputerVision_Seminar✏️
 --------------------------
 ### 세미나 진행 기간 / 방식
-> - 2023.01.09 ~ 2023.03.16
-> - Computer Vision Seminar에 참여
-> - 2달간 매주 목요일 5시에 google meeting 참여 후 다음 미팅 전까지 과제 제출
+> 2023.01.09 ~ 2023.03.16   
+> Computer Vision Seminar에 참여   
+> 2달간 매주 목요일 5시에 google meeting 참여 후 다음 미팅 전까지 과제 제출
 
 --------------------------
 ### 세미나 내용
