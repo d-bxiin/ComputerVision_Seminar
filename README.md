@@ -30,3 +30,7 @@
   + ResNet(2015)
 
 + 6w : 데이터 모델링
+
++ 7w : Semantic Segmentation
+  + Semantic Segmentation
+  + FCN(Fully Convolution Network)
